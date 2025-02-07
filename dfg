@@ -1,0 +1,581 @@
+[33mcommit 21a645d5f2d5c008e9a48aadb47b4829225dd6a3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Nov 16 11:09:55 2024 -0300
+
+    Composer update
+
+[33mcommit f9846a26c632d82b39b5e589c235f94447c2d543[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Nov 16 11:06:17 2024 -0300
+
+    otimizado parcialmente receitas e despesas.
+
+[33mcommit 4dba603adaf68cd319423216d788146afd1ab460[m
+Merge: 1a329e4 7fcd35f
+Author: Thiago Rodrigues <bulfaitelo@gmail.com>
+Date:   Sat Nov 16 10:48:22 2024 -0300
+
+    Merge pull request #2 from bulfaitelo/analysis-O3N6Vl
+    
+    Apply fixes from StyleCI
+
+[33mcommit 7fcd35f5a7b1c43ca6a620ba7d71f27cd8d4e8b5[m
+Author: StyleCI Bot <bot@styleci.io>
+Date:   Sat Nov 16 13:47:15 2024 +0000
+
+    Apply fixes from StyleCI
+
+[33mcommit 1a329e49c604cedc495780f9cf0361f4e779e172[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Nov 16 10:43:57 2024 -0300
+
+    Criado botão para adicionar modelo dentro de wiki
+
+[33mcommit 08d6428e555efcf3b87e6a07e70c839b0b430459[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Nov 16 10:17:48 2024 -0300
+
+    Corrigido ordenação de produtos e serviços
+
+[33mcommit 0397329b6ea832bcf8ab701ac9eb45ccf4ac1ba7[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Nov 16 10:14:02 2024 -0300
+
+    Alterado data padrão relatório balancete para o ano vigente
+
+[33mcommit 84b03a29c201255dac72f98d7c7519a07ba21e55[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Sep 1 10:20:49 2024 -0300
+
+    StyleCli
+
+[33mcommit dc02447a144794a772329d7216de32fbcccd63a8[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Sep 1 10:16:54 2024 -0300
+
+    Corrigindo modelo no create de os
+
+[33mcommit b19b097d22033f13b37c489f7814c0c865678163[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Aug 18 18:57:32 2024 -0300
+
+    styleCi corrections
+
+[33mcommit 82b06fe56ea5abc260abad814b7a533d7620b654[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Aug 18 18:52:10 2024 -0300
+
+    Finalizado parcialmente menu
+
+[33mcommit 591e03d297c94cbe1512c2e86a29a5f0ff55e9eb[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Thu Aug 15 15:35:48 2024 -0300
+
+    commit parcial função de favorito
+
+[33mcommit 0f5a41e371bebfea1ad572ac6ae3dc0f4130bea7[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon Aug 12 15:51:54 2024 -0300
+
+    Iniciado a criação do campo de notificações e de módulos favoritos
+
+[33mcommit 1c4d613624236ed8d6c8ec9f3168fc2cd175dd93[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri Aug 9 14:56:42 2024 -0300
+
+    Corrigindo erro na visualização de os
+
+[33mcommit 6e5b657651ebff0bebe432a5471fb36ea05954ff[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri Aug 9 12:52:52 2024 -0300
+
+    Corrigido erro ao ao adicionar pagamento em os.
+
+[33mcommit c83c8b85e8766af3d3826aa2e0bbab84720ce8f9[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon Aug 5 19:00:19 2024 -0300
+
+    update pdf.css
+
+[33mcommit bc30074499779ac5407b1e94259fc50591b63c1b[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Aug 4 15:55:41 2024 -0300
+
+    criando css para pagina do pdf
+
+[33mcommit 02b2a6ce145c7714872f0d7d52e59f5608cebbf4[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri Aug 2 14:06:57 2024 -0300
+
+    iniciando criação de auto quebra de pagina.
+
+[33mcommit 6d38154fd2cc41c3769001f8530ce876b486ac6a[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri Aug 2 13:50:29 2024 -0300
+
+    finalização parcial da impressão em pdf
+
+[33mcommit 64b27804612e1fd039de9a9d3eaeb342d53558b7[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Wed Jul 31 17:05:06 2024 -0300
+
+    comit parcial pdf
+
+[33mcommit 38732f90d66cfef6d8e7d0d2e48d8782b30b21e3[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Tue Jul 30 17:43:45 2024 -0300
+
+    Dado continudade criaçao do pdf
+
+[33mcommit 17c89e08f136a8c5672b4b8e11d4831d41b3f956[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon Jul 29 16:41:19 2024 -0300
+
+    Refatoração e corrigindo permissões
+
+[33mcommit e1cd906ecd43079ce4662887dfcd578b808f762a[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon Jul 29 11:24:58 2024 -0300
+
+    Corrigindo blade de visualização de os
+
+[33mcommit 9bccb237dc01fd1ce630ff04f86f9aa1cbd7ae9e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon Jul 29 10:13:42 2024 -0300
+
+    reinstalado DomPdf, continuando pagina de impressão em pdf
+
+[33mcommit a595028f0ab6f3ce13815823ba18e30fff1ca3ca[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 27 15:41:51 2024 -0300
+
+    Commit parcial
+
+[33mcommit 205e7f438f1190a6fe0ba327b889e38a3f284e25[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Thu Jul 25 07:58:52 2024 -0300
+
+    instalado spatie/laravel-pdf
+
+[33mcommit e5495d084ae7811c493e4bff22c399b9616c2fd2[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 09:28:53 2024 -0300
+
+    styleci
+
+[33mcommit 00dc109477013507b9b016b1ba48e6b1d47431ee[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 09:20:55 2024 -0300
+
+    styleCi
+
+[33mcommit d7cae9b8e558507eb58d2348dd15fb12fee6fee7[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 09:20:12 2024 -0300
+
+    adicionado função para fechar modal e personalizado a mensagem após adicionar pagamento.
+
+[33mcommit b9d179687700098d278cad02421cd473bf5c44a2[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 08:53:59 2024 -0300
+
+    Corregido input mode em despeas e receitas
+
+[33mcommit 3529e95e3c27b7d3503434033944e05c00272463[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 08:36:22 2024 -0300
+
+    Corrigido input type em Cliente
+
+[33mcommit 793158ecbc9b3fccee078f97c90353aeaa0b4c3a[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 08:33:57 2024 -0300
+
+    styleci
+
+[33mcommit c65715a812b21e8c49e96b2d94ac2b5e7b2edf0e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 08:33:18 2024 -0300
+
+    styleCi
+
+[33mcommit 658a3c2ab9b44eb426af3376a8689342e2c286db[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 08:32:05 2024 -0300
+
+    Alterando osCategoria para Apenas Categoria.
+
+[33mcommit f0f4b7912b43ef8692a54e99058abd68d4e310e4[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 21 08:02:21 2024 -0300
+
+    Adicionado busca por id da OS
+
+[33mcommit f57b37acdd02ab6c8161ec686a63d8c841c9e1a7[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon Jul 8 09:50:37 2024 -0300
+
+    Corrigindo relatório de Os
+
+[33mcommit 4ea8c904936d6648bbc145802188866650f5973d[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 21:51:41 2024 -0300
+
+    composer update
+
+[33mcommit 3e0ea8d4b0628eb9325daf76f1fb7a9f5ea44b9c[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 21:47:12 2024 -0300
+
+    Corrgindo bug em anotação.
+
+[33mcommit 99f6031110f4b6009af51e452edade30db720675[m
+Merge: 8a97796 189b5f4
+Author: Thiago Rodrigues <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 21:37:16 2024 -0300
+
+    Merge pull request #1 from bulfaitelo/analysis-7W0ayk
+    
+    Apply fixes from StyleCI
+
+[33mcommit 189b5f474e0360fe8c6b8626de6f0e615f9b89aa[m
+Author: StyleCI Bot <bot@styleci.io>
+Date:   Sun Jul 7 22:52:23 2024 +0000
+
+    Apply fixes from StyleCI
+
+[33mcommit 8a97796ab32fcb33d722247b1c3a40c9725cd95e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:51:32 2024 -0300
+
+    styleci
+
+[33mcommit 33f50db076306df3b51983ee2ae4ccf8fb63ab71[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:46:29 2024 -0300
+
+    styleci
+
+[33mcommit 33c04eecca4ad18f1fce4fb9aa05a41fecaf2eb7[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:26:17 2024 -0300
+
+    styleci
+
+[33mcommit f251e16f52553aa2cf7aa09f84071872679bcb05[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:22:30 2024 -0300
+
+    styleci
+
+[33mcommit 23f6934f34f7d7c90b4b5fcab260c4e059ff5736[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:12:55 2024 -0300
+
+    styleci
+
+[33mcommit bf466b56f41fb56b59a5d1e2994c036bac55a422[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:11:39 2024 -0300
+
+    styleci
+
+[33mcommit ed9393bf2f2c6dce499ed9d9983780a9c9f992be[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:09:25 2024 -0300
+
+    styleci
+
+[33mcommit a9eb02e6a07e2415584c527324ec9387a479e3c2[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:06:59 2024 -0300
+
+    styleci
+
+[33mcommit 625b9e5a5624127cbe8f3c47229d3ef84accc2b6[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 19:01:11 2024 -0300
+
+    styleci
+
+[33mcommit af0999e34692e0e596102d9d040c9877997ce2c3[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:55:35 2024 -0300
+
+    styleci
+
+[33mcommit 7613b6dbc8d26ce56480d6d62aa5b6bc8f024761[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:51:41 2024 -0300
+
+    styleci
+
+[33mcommit 9c63a36e78a43fc94800ffcb199ec980c1ce615c[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:46:36 2024 -0300
+
+    styleci
+
+[33mcommit efd8b13ce2bfe3bf0e804b2632c14294db5ba4b5[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:39:41 2024 -0300
+
+    styleci
+
+[33mcommit 731cafca706c55ebab49027539752dc20109f82e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:34:50 2024 -0300
+
+    styleci
+
+[33mcommit 6171a852251f8ec89431c05058bbdfd4d4760200[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:31:17 2024 -0300
+
+    styleci
+
+[33mcommit 3efa94ac74782cf4759b898b8ffd9ca920faa274[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:27:38 2024 -0300
+
+    styleci
+
+[33mcommit 69a39eeefb6775d9972ef0ac3e5204440caf6f2f[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 18:21:32 2024 -0300
+
+    styleci
+
+[33mcommit 2239bcfe7124cb35f439a7f9f1f38c9eb961ccc9[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 17:52:54 2024 -0300
+
+    styleci
+
+[33mcommit 4a79b4a72bd09824449b3fa58a3c2fb6c1dcc038[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 17:50:23 2024 -0300
+
+    styleci
+
+[33mcommit 583b24a41fc070c2ec07349acc2726da9470611e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 17:49:26 2024 -0300
+
+    styleci
+
+[33mcommit cd7c792573f8ad39ea6c44e2cccf215b65edc0a9[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 17:42:52 2024 -0300
+
+    styleci
+
+[33mcommit 67f327982ca5f143757fcd2965faa4c93990dc58[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 17:31:16 2024 -0300
+
+    styleci
+
+[33mcommit 2005b7c973533fe4ca5a296390b62204400bcb80[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 17:13:46 2024 -0300
+
+    styleci
+
+[33mcommit 0411e570b7d184ef5b6d98a105c0a06c62c1dee1[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 12:28:53 2024 -0300
+
+    styleci
+
+[33mcommit 3c9cf45f06af10b09bc9f596e86d791540100f25[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 12:14:30 2024 -0300
+
+    stylci
+
+[33mcommit c3575f3d8135e72289972800df998142f0311f7c[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jul 7 10:16:39 2024 -0300
+
+    Refatorando model
+
+[33mcommit a36d4843b3340aaa19e3edaf66fce351d27c7e76[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 23:29:47 2024 -0300
+
+    styleci
+
+[33mcommit 857679cdeba8818b3acae752d507a9c1de8bd476[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 23:24:46 2024 -0300
+
+    styleci
+
+[33mcommit 325d4076f2fb51219a9f35181a58c6d6c20ebfc3[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 23:16:08 2024 -0300
+
+    Refatorando Permissions
+
+[33mcommit f542e7021cdeca7e66ca76257c959cefbd640f6e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:54:42 2024 -0300
+
+    styleci
+
+[33mcommit 3355ba814218f12cb693711c59880943c3a08a4e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:48:13 2024 -0300
+
+    styleCi
+
+[33mcommit 9d2e076b2ea4ecad012b9d847f73f78e4872258e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:40:15 2024 -0300
+
+    styleCi
+
+[33mcommit ce03e141ca30006ee1e6842235f0cc035d508b67[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:35:58 2024 -0300
+
+    styleCli
+
+[33mcommit 910a14ac2d78b1c71d2ee80df358771320325c9e[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:25:44 2024 -0300
+
+    styleCi
+
+[33mcommit 2e10fbb9015960114c2e347959c3774222bad7ed[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:24:18 2024 -0300
+
+    styleCi
+
+[33mcommit 44187b8453e6b7e8e314d348659c5dd9748ff0ca[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:12:21 2024 -0300
+
+    styleci
+
+[33mcommit 50ea78c6f18b8ebeaff03edd700cdc55c895f515[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 22:10:54 2024 -0300
+
+    styleCI
+
+[33mcommit 8f2a340b2dd878ff9373e3bc3456e13521f30be3[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 21:54:25 2024 -0300
+
+    styleci
+
+[33mcommit 2fe6b6543a431feb6136872a3c185384cb17750d[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sat Jul 6 21:45:57 2024 -0300
+
+    StyleCI
+
+[33mcommit 9d1590e1a0a50cf451fa16db9d0b124df5625d98[m
+Author: Thiago Rodrigues <bulfaitelo@gmail.com>
+Date:   Fri Jul 5 10:14:56 2024 -0300
+
+    Update README.md
+
+[33mcommit 7f16edcb08fe1bf645b3c4e233730c53211f85b4[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri Jul 5 10:12:23 2024 -0300
+
+    Atualizando logomarca
+
+[33mcommit 635ef7269b624197cc4f0b040eb0b8eb0aca0458[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Wed Jun 12 08:27:33 2024 -0300
+
+    Corrigido Formatação do telefone.
+
+[33mcommit a8761a821eb8296ba7a8b5a59d175e2edbb522de[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Wed Jun 5 09:46:50 2024 -0300
+
+    Adicionado a função de buscar por Fabricante na os.
+
+[33mcommit 50c496f06df290a582327f2eac2600ba71a75652[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Wed Jun 5 09:01:38 2024 -0300
+
+    Corrigido erro de poder faturar 2 os .
+
+[33mcommit cf696156525f2538bd4b3f295f1f26c25982c08d[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Wed Jun 5 08:41:18 2024 -0300
+
+    Adicionado erro warning para exclusão de Modelo já usado em OS.
+
+[33mcommit 4f252bf4bc16fc8918ac432a81c561c186fe5c10[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jun 2 12:15:34 2024 -0300
+
+    Corrigindo erro no liveware do add pagamento
+
+[33mcommit 81d31c18e53eec1eb557bc8c2eb89e51828b5b44[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun Jun 2 12:15:15 2024 -0300
+
+    Corrigindo erro no balancete, onde nao existiam débitos.
+
+[33mcommit fe44681bfea763e0d75fb61307fa73c561b395f4[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri May 31 13:47:12 2024 -0300
+
+    Adicionado component para visualização das os para cada cliente
+
+[33mcommit 4080dd78babaf6c292de2dbd149aea5ab60a471a[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Fri May 31 13:07:49 2024 -0300
+
+    Iniciado a criação da tela de listagem de os para cada cliente.
+
+[33mcommit a3f2f9ae679dfe0cc971e1a38fa217fc77e710a1[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Tue May 28 15:38:36 2024 -0300
+
+    Criado o OsServicoCreateDeleteTest
+
+[33mcommit 26f7644f7bf3020eb505c48284f513d4f5abf117[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Tue May 28 15:38:10 2024 -0300
+
+    Refatorado organização dos testes
+
+[33mcommit e81d30ec00bc5ba290ca8d024ba90dc8e43dbeca[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Tue May 28 08:01:42 2024 -0300
+
+    Refatorado OsProtutoCreateDeleteTest e adicionado novos testes
+
+[33mcommit cad9c19cd05bd943caa84bab29883272b61bec8f[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon May 27 11:25:04 2024 -0300
+
+    Corrgindo texto de despesa
+
+[33mcommit cde85a4061100dd8add3fa419e236069a50863f2[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon May 27 10:25:22 2024 -0300
+
+    Melhorias nas telas de wiki.
+
+[33mcommit d37e3b60717f17c993eb4a12cf4b4fc83b7d7a63[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Mon May 27 09:22:44 2024 -0300
+
+    Adicionado função de popover para gerar ícones de ajuda.
+
+[33mcommit 66bca9e8be26818cc59c417ba1f5acbc7005a107[m
+Author: Bulfaitelo <bulfaitelo@gmail.com>
+Date:   Sun May 26 18:51:37 2024 -0300
+
+    Adicioando popover em wiki pra testar
