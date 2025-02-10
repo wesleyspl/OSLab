@@ -26,22 +26,22 @@
             <td>{{ $item->celular}}</td>
             <td>{{ $item->email}}</td>
             <td>{{ $item->uf}}</td>
-            <td>{{ $item->os->count() }}</td>
+            <td></td>
             <td>
                 <div class="btn-group btn-group-sm">
                     @if (isset($edit) && $edit === true)
                         @can('cliente_edit')
-                            <a href="{{ route('cliente.edit', $item->id) }}" title="Editar" class="btn btn-left btn-info"><i class="fas fa-edit"></i></a>
+                            <a href="{{ route('cliente.edit', $item->id_fornecedor) }}" title="Editar" class="btn btn-left btn-info"><i class="fas fa-edit"></i></a>
                         @endcan
                     @endif
                     @if (isset($show) && $show === true)
                         @can('cliente_show')
-                            <a href="{{ route('cliente.show', $item->id) }}" title="Editar" class="btn btn-left btn-default"><i class="fas fa-eye"></i></a>
+                            <a href="{{ route('cliente.show', $item->id_fornecedor) }}" title="Editar" class="btn btn-left btn-default"><i class="fas fa-eye"></i></a>
                         @endcan
                     @endif
                     @if (isset($destroy) && $destroy === true)
                         @can('cliente_destroy')
-                            <button type="button" class="btn btn-block btn-danger" data-toggle="modal" data-name="{{$item->name}}" data-url="{{route('cliente.destroy', $item->id)}}" data-target="#modal-excluir"><i class="fas fa-trash"></i></button>
+                            <button type="button" class="btn btn-block btn-danger" data-toggle="modal" data-name="{{$item->name}}" data-url="{{route('cliente.destroy', $item->id_fornecedor)}}" data-target="#modal-excluir"><i class="fas fa-trash"></i></button>
                         @endcan
                     @endif
                 </div>

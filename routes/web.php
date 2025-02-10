@@ -77,7 +77,11 @@ Route::group(['middleware' => 'auth'], function () {
       //  Route::resource('/compras', ComprasController::class);
         Route::get('/fornecedor',[FornecedoresController::class,'index'])->name('fornecedor.index');
         Route::get('/fornecedor.create',[FornecedoresController::class,'create'])->name('fornecedor.create');
-    // anceiro
+       // Route::get('/fornecedor.create',[FornecedoresController::class,'create'])->name('fornecedor.create');
+        Route::post('/fornecedor.store',[FornecedoresController::class,'store'])->name('fornecedor.store');
+   
+   
+        // anceiro
     Route::name('financeiro.')->prefix('financeiro')->group(function () {
         Route::resource('/despesa', DespesaController::class);
         Route::put('/despesa/{despesa}/pagamento/{pagamento}', [DespesaPagamentoController::class, 'update'])->name('despesa.pagamento.update');
